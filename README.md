@@ -41,14 +41,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Trophies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=B4WHIS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4WHIS&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=B4WHIS&theme=tokyonight&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -62,7 +65,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binh-nguyen-979569312/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:binhnguyen.cnit@gmail.com)
 
 </div>
